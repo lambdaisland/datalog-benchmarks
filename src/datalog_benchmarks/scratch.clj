@@ -132,7 +132,6 @@
          db))])
 ;; => ([:asami 0.055361949128050786]
 ;;     [:datascript 4.500557351911001]
-;;     [:datomic 5.450139266847755])
 
 ;; Numbers are median millisecond per iteration
 
@@ -147,4 +146,3 @@
          db))])
 ;; => ([:asami 0.2681985143738926]
 ;;     [:datascript 23.34473799302481]
-;;     [:datomic 21.83962415869793])
